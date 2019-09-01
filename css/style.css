@@ -48,7 +48,14 @@ body {
     padding: 1em;
 }
 
-footer{
+.footer{
     background: black;
-    
+    width: 70%;
+    margin: 0 auto;
+    height: 30px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.75em;
 }
